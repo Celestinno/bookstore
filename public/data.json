@@ -1,0 +1,188 @@
+[
+  {
+    "name": "It Ends with Us: A Novel",
+    "cover": "https://m.media-amazon.com/images/I/71l9pCV99FL._AC_UY218_.jpg",
+    "author": "Colleen Hoover",
+    "price": 16.99,
+    "id": 1000,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "paperback"
+    },
+    "description": "Lily hasn’t always had it easy, but that’s never stopped her from working hard for the life she wants. \\nShe’s come a long way from the small town where she grew up—she graduated from college, moved to Boston, and started her own business. And when she feels a spark with a gorgeous neurosurgeon named Ryle Kincaid, everything in Lily’s life seems too good to be true. \\nRyle is assertive, stubborn, maybe even a little arrogant. He’s also sensitive, brilliant, and has a total soft spot for Lily. And the way he looks in scrubs certainly doesn’t hurt. Lily can’t get him out of her head. But Ryle’s complete aversion to relationships is disturbing. Even as Lily finds herself becoming the exception to his “no dating” rule, she can’t help but wonder what made him that way in the first place. As questions about her new relationship overwhelm her, so do thoughts of Atlas Corrigan—her first love and a link to the past she left behind. He was her kindred spirit, her protector. When Atlas suddenly reappears, everything Lily has built with Ryle is threatened."
+  },
+  {
+    "name": "Where the Crawdads Sing ",
+    "cover": "https://m.media-amazon.com/images/I/61m1Vxw8tiL._AC_UY218_.jpg",
+    "author": "Delia Owens",
+    "price": 9.99,
+    "id": 1001,
+    "category": {
+      "category-1": "fiction"
+    },
+    "description": "For years, rumors of the “Marsh Girl” have haunted Barkley Cove, a quiet town on the North Carolina coast. So in late 1969, when handsome Chase Andrews is found dead, the locals immediately suspect Kya Clark, the so-called Marsh Girl. \\nBut Kya is not what they say. Sensitive and intelligent, she has survived for years alone in the marsh that she calls home, finding friends in the gulls and lessons in the sand. \\nThen the time comes when she yearns to be touched and loved. When two young men from town become intrigued by her wild beauty, Kya opens herself to a new life—until the unthinkable happens."
+  },
+  {
+    "name": "The Seven Husbands of Evelyn Hugo: A Novel ",
+    "cover": "https://m.media-amazon.com/images/I/71ZvnK+4JiL._AC_UY218_.jpg",
+    "author": "Taylor Jenkins Reid ",
+    "price": 16.99,
+    "id": 1002,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "paperback"
+    },
+    "description": "Aging and reclusive Hollywood movie icon Evelyn Hugo is finally ready to tell the truth about her glamorous and scandalous life. But when she chooses unknown magazine reporter Monique Grant for the job, no one is more astounded than Monique herself. \\nWhy her? Why now? Monique is not exactly on top of the world. \\nHer husband has left her, and her professional life is going nowhere. Regardless of why Evelyn has selected her to write her biography, Monique is determined to use this opportunity to jumpstart her career. \\nSummoned to Evelyn’s luxurious apartment, Monique listens in fascination as the actress tells her story. From making her way to Los Angeles in the 1950s to her decision to leave show business in the ‘80s, and, of course, the seven husbands along the way, Evelyn unspools a tale of ruthless ambition, unexpected friendship, and a great forbidden love. Monique begins to feel a very real connection to the legendary star, but as Evelyn’s story near its conclusion, it becomes clear that her life intersects with Monique’s own in tragic and irreversible ways."
+  },
+  {
+    "name": "Ugly Love: A Novel ",
+    "cover": "https://m.media-amazon.com/images/I/613KCs7szvL._AC_UY218_.jpg",
+    "author": "Colleen Hoover ",
+    "price": 10.99,
+    "id": 1003,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "paperback"
+    },
+    "description": "When Tate Collins meets airline pilot Miles Archer, she doesn't think it's love at first sight. They wouldn’t even go so far as to consider themselves friends. The only thing Tate and Miles have in common is an undeniable mutual attraction. \\nOnce their desires are out in the open, they realize they have the perfect set-up. He doesn’t want love, she doesn’t have time for love, so that just leaves the sex. \\nTheir arrangement could be surprisingly seamless, as long as Tate can stick to the only two rules Miles has for her. Never ask about the past. Don’t expect a future. They think they can handle it, but realize almost immediately they can’t handle it at all. \\nHearts get infiltrated. Promises get broken. Rules get shattered. Love gets ugly."
+  },
+  {
+    "name": "Reminders of Him: A Novel ",
+    "cover": "https://m.media-amazon.com/images/I/617uZq23IPL._AC_UY218_.jpg",
+    "author": "Colleen Hoover ",
+    "price": 15.99,
+    "id": 1004,
+    "category": {
+      "category-1": "fiction"
+    },
+    "description": "After serving five years in prison for a tragic mistake, Kenna Rowan returns to the town where it all went wrong, hoping to reunite with her four-year-old daughter. But the bridges Kenna burned are proving impossible to rebuild. \\nEveryone in her daughter’s life is determined to shut Kenna out, no matter how hard she works to prove herself. The only person who hasn’t closed the door on her completely is Ledger Ward, a local bar owner and one of the few remaining links to Kenna’s daughter. But if anyone were to discover how Ledger is slowly becoming an important part of Kenna’s life, both would risk losing the trust of everyone important to them. \\nThe two form a connection despite the pressure surrounding them, but as their romance grows, so does the risk. Kenna must find a way to absolve the mistakes of her past in order to build a future out of hope and healing."
+  },
+  {
+    "name": "Book Lovers ",
+    "cover": "https://m.media-amazon.com/images/I/71duwitbLBL._AC_UY218_.jpg",
+    "author": "Emily Henry  ",
+    "price": 16.99,
+    "id": 1005,
+    "category": {
+      "category-1": "fiction"
+    },
+    "description": "One summer. Two rivals. A plot twist they didn't see coming... \\nNora Stephens' life is books—she’s read them all—and she is not that type of heroine. Not the plucky one, not the laidback dream girl, and especially not the sweetheart. \\nIn fact, the only people Nora is a heroine for are her clients, for whom she lands enormous deals as a cutthroat literary agent, and her beloved little sister Libby. Which is why she agrees to go to Sunshine Falls, North Carolina for the month of August when Libby begs her for a sisters’ trip away—with visions of a small town transformation for Nora, who she’s convinced needs to become the heroine in her own story. \\nBut instead of picnics in meadows, or run-ins with a handsome country doctor or bulging-forearmed bartender, Nora keeps bumping into Charlie Lastra, a bookish brooding editor from back in the city. It would be a meet-cute if not for the fact that they’ve met many times and it’s never been cute. \\nIf Nora knows she’s not an ideal heroine, Charlie knows he’s nobody’s hero, but as they are thrown together again and again—in a series of coincidences no editor worth their salt would allow—what they discover might just unravel the carefully crafted stories they’ve written about themselves."
+  },
+  {
+    "name": "Happy-Go-Lucky",
+    "cover": "https://m.media-amazon.com/images/I/71i4ryfWXOL._AC_UY218_.jpg",
+    "author": "David Sedaris and Little, Brown & Company ",
+    "price": 18.50,
+    "id": 1006,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "paperback"
+    },
+    "description": "Back when restaurant menus were still printed on paper, and wearing a mask—or not—was a decision made mostly on Halloween, David Sedaris spent his time doing normal things. \\nAs Happy-Go-Lucky opens, he is learning to shoot guns with his sister, visiting muddy flea markets in Serbia, buying gummy worms to feed to ants, and telling his nonagenarian father wheelchair jokes. But then the pandemic hits, and like so many others, he’s stuck in lockdown, unable to tour and read for audiences, the part of his work he loves most. \\nTo cope, he walks for miles through a nearly deserted city, smelling only his own breath. He vacuums his apartment twice a day, fails to hoard anything, and contemplates how sex workers and acupuncturists might be getting by during quarantine. As the world gradually settles into a new reality, Sedaris too finds himself changed. \\nHis offer to fix a stranger’s teeth rebuffed, he straightens his own, and ventures into the world with new confidence. Newly orphaned, he considers what it means, in his seventh decade, no longer to be someone’s son. \\nAnd back on the road, he discovers a battle-scarred America: people weary, storefronts empty or festooned with Help Wanted signs, walls painted with graffiti reflecting the contradictory messages of our time: \\nEat the Rich. \\nTrump 2024. \\nBlack Lives Matter. "
+  },
+  {
+    "name": "Mordenkainen Presents: Monsters of the Multiverse (Dungeons & Dragons Book)",
+    "cover": "https://m.media-amazon.com/images/I/81g-Tq7stuL._AC_UY218_.jpg",
+    "author": "Wizards RPG Team  ",
+    "price": 29.99,
+    "id": 1007,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "paperback"
+    },
+    "description": "Sparkling with the musings of the wizard Mordenkainen, this tome features a host of creatures for use in the Dungeons & Dragons roleplaying game. Compiling and updating monsters that originally appeared in previous D&D fifth edition releases, these creatures represent some of the most benevolent and malevolent forces that D&D heroes might face. \\nThe book also gathers together fantastical peoples from many different worlds. Each of these peoples represents a race option when you create your D&D character, expanding on the choices in the Player’s Handbook. \\n•  Includes more than 250 monsters—updates to the monsters include making spellcasters easier for Dungeon Masters to run, giving many monsters more damage and resilience, and improving the organization of the stat blocks themselves \\n•  Includes more than 30 playable races—brings the game’s setting-agnostic races into one book, complementing the races in the Player’s Handbook \\n•  A multiverse of lore—includes updates to monster lore that refocuses their stories on the D&D multiverse, rather than on any particular world"
+  },
+  {
+    "name": "Meant to Be: A Novel",
+    "cover": "https://m.media-amazon.com/images/I/81R9d-gZ35L._AC_UY218_.jpg",
+    "author": "Emily Giffin",
+    "price": 18.20,
+    "id": 1008,
+    "category": {
+      "category-1": "fiction"
+    },
+    "description": "The Kingsley family is American royalty, beloved for their military heroics, political service, and unmatched elegance. In 1967, after Joseph S. Kingsley, Jr. is killed in a tragic accident, his charismatic son inherits the weight of that legacy. But Joe III is a free spirit—and a little bit reckless. Despite his best intentions, he has trouble meeting the expectations of a nation, as well as those of his exacting mother, Dottie. \\nMeanwhile, no one ever expected anything of Cate Cooper. She, too, grew up fatherless—and after her mother marries an abusive man, she is forced to fend for herself. After being discovered by a model scout at age sixteen, Cate decides that her looks may be her only ticket out of the cycle of disappointment that her mother has always inhabited. Before too long, Cate’s face is in magazines and on billboards. Yet she feels like a fraud, faking it in a world to which she’s never truly belonged. \\nWhen Joe and Cate unexpectedly cross paths one afternoon, their connection is instant and intense. But can their relationship survive the glare of the spotlight and the so-called Kingsley curse? In a beautifully written novel that captures a gilded moment in American history, Emily Giffin tells the story of two people searching for belonging and identity, as well as the answer to the question: Are certain love stories meant to be?"
+  },
+  {
+    "name": "November 9: A Novel",
+    "cover": "https://m.media-amazon.com/images/I/61xkvfPVupL._AC_UY218_.jpg",
+    "author": "Colleen Hoover ",
+    "price": 11.99,
+    "id": 1009,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "paperback"
+    },
+    "description": "Fallon meets Ben, an aspiring novelist, the day before her scheduled cross-country move. Their untimely attraction leads them to spend Fallon’s last day in Los Angeles together, and her eventful life becomes the creative inspiration Ben has always sought for his novel. Over time and amidst the various relationships and tribulations of their own separate lives, they continue to meet on the same date every year. Until one day Fallon becomes unsure if Ben has been telling her the truth or fabricating a perfect reality for the sake of the ultimate plot twist. \\nCan Ben’s relationship with Fallon—and simultaneously his novel—be considered a love story if it ends in heartbreak?"
+  },
+  {
+    "name": "Berserk Deluxe Volume 1 ",
+    "cover": "https://m.media-amazon.com/images/I/91CYzE4mFKL._AC_UY218_.jpg",
+    "author": "Taylor Jenkins Reid ",
+    "price": 29.99,
+    "id": 1010,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "manga",
+      "category-3": "paperback"
+    },
+    "description": " Have you got the Guts? Kentaro Miura's Berserk has outraged, horrified, and delighted manga and anime fanatics since 1989, creating an international legion of hardcore devotees and inspiring a plethora of TV series, feature films, and video games. And now the badass champion of adult fantasy manga is presented in an oversized 7\" x 10\" deluxe hardcover edition, nearly 700 pages amassing the first three Berserk volumes, with following volumes to come to serve up the entire series in handsome bookshelf collections. No Guts, no glory! "
+  },
+  {
+    "name": "Every Summer After ",
+    "cover": "https://m.media-amazon.com/images/I/61HBIgPJt3L._AC_UY218_.jpg",
+    "author": "Carley Fortune",
+    "price": 12.05,
+    "id": 1011,
+    "category": {
+      "category-1": "fiction"
+    },
+    "description": "They say you can never go home again, and for Persephone Fraser, ever since she made the biggest mistake of her life a decade ago, that has felt too true. Instead of glittering summers on the lakeshore of her childhood, she spends them in a stylish apartment in the city, going out with friends, and keeping everyone a safe distance from her heart. \\nUntil she receives the call that sends her racing back to Barry’s Bay and into the orbit of Sam Florek—the man she never thought she’d have to live without. \\nFor six summers, through hazy afternoons on the water and warm summer nights working in his family’s restaurant and curling up together with books—medical textbooks for him and work-in-progress horror short stories for her—Percy and Sam had been inseparable. Eventually that friendship turned into something breathtakingly more, before it fell spectacularly apart. \\nWhen Percy returns to the lake for Sam’s mother’s funeral, their connection is as undeniable as it had always been. But until Percy can confront the decisions she made and the years she’s spent punishing herself for them, they’ll never know whether their love might be bigger than the biggest mistakes of their past. \\nTold over the course of six years and one weekend, Every Summer After is a big, sweeping nostalgic story of love and the people and choices that mark us forever."
+  },
+  {
+    "name": "People We Meet on Vacation ",
+    "cover": "https://m.media-amazon.com/images/I/71ow6v8lfQL._AC_UY218_.jpg",
+    "author": "Emily Henry",
+    "price": 10.00,
+    "id": 1012,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "paperback"
+    },
+    "description": "Two best friends. Ten summer trips. One last chance to fall in love. \\nPoppy and Alex. Alex and Poppy. They have nothing in common. She’s a wild child; he wears khakis. She has insatiable wanderlust; he prefers to stay home with a book. And somehow, ever since a fateful car share home from college many years ago, they are the very best of friends. For most of the year they live far apart—she’s in New York City, and he’s in their small hometown—but every summer, for a decade, they have taken one glorious week of vacation together. \\nUntil two years ago, when they ruined everything. They haven't spoken since. \\nPoppy has everything she should want, but she’s stuck in a rut. When someone asks when she was last truly happy, she knows, without a doubt, it was on that ill-fated, final trip with Alex. And so, she decides to convince her best friend to take one more vacation together—lay everything on the table, make it all right. Miraculously, he agrees. \\nNow she has a week to fix everything. If only she can get around the one big truth that has always stood quietly in the middle of their seemingly perfect relationship. What could possibly go wrong?"
+  },
+  {
+    "name": "The Last Thing He Told Me: A Novel",
+    "cover": "https://m.media-amazon.com/images/I/81823bTjKHL._AC_UY218_.jpg",
+    "author": "Laura Dave ",
+    "price": 13.50,
+    "id": 1013,
+    "category": {
+      "category-1": "fiction"
+    },
+    "description": "Before Owen Michaels disappears, he smuggles a note to his beloved wife of one year: Protect her. Despite her confusion and fear, Hannah Hall knows exactly to whom the note refers—Owen’s sixteen-year-old daughter, Bailey. Bailey, who lost her mother tragically as a child. Bailey, who wants absolutely nothing to do with her new stepmother. \\nAs Hannah’s increasingly desperate calls to Owen go unanswered, as the FBI arrests Owen’s boss, as a US marshal and federal agents arrive at her Sausalito home unannounced, Hannah quickly realizes her husband isn’t who he said he was. And that Bailey just may hold the key to figuring out Owen’s true identity—and why he really disappeared. \\nHannah and Bailey set out to discover the truth. But as they start putting together the pieces of Owen’s past, they soon realize they’re also building a new future—one neither of them could have anticipated. \\nWith its breakneck pacing, dizzying plot twists, and evocative family drama, The Last Thing He Told Me is a riveting mystery, certain to shock you with its final, heartbreaking turn."
+  },
+  {
+    "name": "Beach Read",
+    "cover": "https://m.media-amazon.com/images/I/81JjBCLBHYL._AC_UY218_.jpg",
+    "author": "Emily Henry ",
+    "price": 7.35,
+    "id": 1014,
+    "category": {
+      "category-1": "fiction"
+    },
+    "description": "Augustus Everett is an acclaimed author of literary fiction. January Andrews writes bestselling romance. When she pens a happily ever after, he kills off his entire cast. \\nThey’re polar opposites. \\nIn fact, the only thing they have in common is that for the next three months, they're living in neighboring beach houses, broke, and bogged down with writer's block. \\nUntil, one hazy evening, one thing leads to another and they strike a deal designed to force them out of their creative ruts: Augustus will spend the summer writing something happy, and January will pen the next Great American Novel. She’ll take him on field trips worthy of any rom-com montage, and he’ll take her to interview surviving members of a backwoods death cult (obviously). Everyone will finish a book and no one will fall in love. Really."
+  },
+  {
+    "name": "The Alchemist, 25th Anniversary: A Fable About Following Your Dream",
+    "cover": "https://m.media-amazon.com/images/I/51kcX5PpaZL._AC_UY218_.jpg",
+    "author": "Paulo Coelho ",
+    "price": 8.90,
+    "id": 1015,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "paperback"
+    },
+    "description": "A special 25th anniversary edition of the extraordinary international bestseller, including a new Foreword by Paulo Coelho. \\nCombining magic, mysticism, wisdom and wonder into an inspiring tale of self-discovery, The Alchemist has become a modern classic, selling millions of copies around the world and transforming the lives of countless readers across generations. \\nPaulo Coelho's masterpiece tells the mystical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure. His quest will lead him to riches far different—and far more satisfying—than he ever imagined. Santiago's journey teaches us about the essential wisdom of listening to our hearts, of recognizing opportunity and learning to read the omens strewn along life's path, and, most importantly, to follow our dreams."
+  }
+]

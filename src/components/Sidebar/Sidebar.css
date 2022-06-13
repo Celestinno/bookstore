@@ -1,0 +1,33 @@
+.sidebar {
+  position: absolute;
+  top: 130px;
+  width: 20%;
+  height: auto;
+  padding-bottom: 30px;
+  background-color: #002e2c;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+}
+
+.sideSubTitle {
+  font-size: 18px;
+  font-family: 'Arvo', serif;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.filterItem {
+  font-size: 16px;
+  line-height: 23px;
+  padding-left: 30px;
+  list-style: none;
+  width: auto;
+}
+
+.filterItem:hover {
+  cursor: pointer;
+  color: #00cec7;
+}
