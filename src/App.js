@@ -9,7 +9,14 @@ const years = ['1960s', '1970s', '1980s', '1990s', '2000s', '2010s', '2020s']
 
 
 function App() {
-  fetch('data.json')
+  fetch('data.json'
+    , {
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+      }
+    }
+  )
     .then(response => response.json())
     .then(response => console.log(response))
   return (

@@ -11,6 +11,31 @@
   padding-left: 10px;
 }
 
+label {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+  cursor: pointer;
+}
+
+input.checkbox {
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+  margin-right: 5px;
+  -webkit-appearance: none;
+  background-color: white;
+  border-radius: 5px;
+}
+
+input.checkbox:checked {
+  height: 20px;
+  width: 20px;
+  background-color: black;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
 .sideSubTitle {
   font-size: 18px;
   font-family: 'Arvo', serif;
