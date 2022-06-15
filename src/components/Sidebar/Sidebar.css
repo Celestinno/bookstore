@@ -1,9 +1,8 @@
 .sidebar {
-  position: absolute;
+  position: relative;
   top: 130px;
-  width: 20%;
-  height: 1fr;
-  padding-bottom: 577px;
+  width: auto;
+  height: auto;
   background-color: #002e2c;
   color: white;
   display: flex;
