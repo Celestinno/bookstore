@@ -5,6 +5,8 @@
     "author": "Colleen Hoover",
     "price": 16.99,
     "id": 1000,
+    "language": "english",
+    "year": 2015,
     "category": {
       "category-1": "fiction",
       "category-2": "paperback"
@@ -17,6 +19,8 @@
     "author": "Delia Owens",
     "price": 9.99,
     "id": 1001,
+    "language": "english",
+    "year": 2012,
     "category": {
       "category-1": "fiction"
     },
@@ -28,6 +32,8 @@
     "author": "Taylor Jenkins Reid ",
     "price": 16.99,
     "id": 1002,
+    "language": "english",
+    "year": 2005,
     "category": {
       "category-1": "fiction",
       "category-2": "paperback"
@@ -40,6 +46,8 @@
     "author": "Colleen Hoover ",
     "price": 10.99,
     "id": 1003,
+    "language": "english",
+    "year": 2010,
     "category": {
       "category-1": "fiction",
       "category-2": "paperback"
@@ -52,6 +60,8 @@
     "author": "Colleen Hoover ",
     "price": 15.99,
     "id": 1004,
+    "language": "english",
+    "year": 1998,
     "category": {
       "category-1": "fiction"
     },
@@ -63,6 +73,8 @@
     "author": "Emily Henry  ",
     "price": 16.99,
     "id": 1005,
+    "language": "english",
+    "year": 1999,
     "category": {
       "category-1": "fiction"
     },
@@ -74,6 +86,8 @@
     "author": "David Sedaris and Little, Brown & Company ",
     "price": 18.50,
     "id": 1006,
+    "language": "english",
+    "year": 2001,
     "category": {
       "category-1": "fiction",
       "category-2": "paperback"
@@ -86,6 +100,8 @@
     "author": "Wizards RPG Team  ",
     "price": 29.99,
     "id": 1007,
+    "language": "english",
+    "year": 2012,
     "category": {
       "category-1": "fiction",
       "category-2": "paperback"
@@ -98,6 +114,8 @@
     "author": "Emily Giffin",
     "price": 18.20,
     "id": 1008,
+    "language": "english",
+    "year": 2004,
     "category": {
       "category-1": "fiction"
     },
@@ -109,6 +127,8 @@
     "author": "Colleen Hoover ",
     "price": 11.99,
     "id": 1009,
+    "language": "english",
+    "year": 2015,
     "category": {
       "category-1": "fiction",
       "category-2": "paperback"
@@ -121,6 +141,8 @@
     "author": "Taylor Jenkins Reid ",
     "price": 29.99,
     "id": 1010,
+    "language": "english",
+    "year": 1987,
     "category": {
       "category-1": "fiction",
       "category-2": "manga",
@@ -134,6 +156,8 @@
     "author": "Carley Fortune",
     "price": 12.05,
     "id": 1011,
+    "language": "english",
+    "year": 2022,
     "category": {
       "category-1": "fiction"
     },
@@ -145,6 +169,8 @@
     "author": "Emily Henry",
     "price": 10.00,
     "id": 1012,
+    "language": "english",
+    "year": 2015,
     "category": {
       "category-1": "fiction",
       "category-2": "paperback"
@@ -157,6 +183,8 @@
     "author": "Laura Dave ",
     "price": 13.50,
     "id": 1013,
+    "language": "english",
+    "year": 2005,
     "category": {
       "category-1": "fiction"
     },
@@ -168,6 +196,8 @@
     "author": "Emily Henry ",
     "price": 7.35,
     "id": 1014,
+    "language": "english",
+    "year": 1994,
     "category": {
       "category-1": "fiction"
     },
@@ -179,10 +209,139 @@
     "author": "Paulo Coelho ",
     "price": 8.90,
     "id": 1015,
+    "language": "english",
+    "year": 2021,
     "category": {
       "category-1": "fiction",
       "category-2": "paperback"
     },
     "description": "A special 25th anniversary edition of the extraordinary international bestseller, including a new Foreword by Paulo Coelho. \\nCombining magic, mysticism, wisdom and wonder into an inspiring tale of self-discovery, The Alchemist has become a modern classic, selling millions of copies around the world and transforming the lives of countless readers across generations. \\nPaulo Coelho's masterpiece tells the mystical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure. His quest will lead him to riches far different—and far more satisfying—than he ever imagined. Santiago's journey teaches us about the essential wisdom of listening to our hearts, of recognizing opportunity and learning to read the omens strewn along life's path, and, most importantly, to follow our dreams."
+  },
+  {
+    "name": "Violeta Spanish Edition",
+    "cover": "https://m.media-amazon.com/images/I/71wSvIBl5BL._AC_UY218_.jpg",
+    "author": "Isabel Allende ",
+    "price": 24.00,
+    "id": 1016,
+    "language": "spanish",
+    "year": 2013,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "hardback"
+    },
+    "description": "La épica y emocionante historia de una mujer cuya vida abarca los momentos históricos más relevantes del siglo XX. \\nDesde 1920 -con la llamada «gripe española»- hasta la pandemia de 2020, la vida de Violeta será mucho más que la historia de un siglo. \\nVioleta viene al mundo un tormentoso día de 1920, siendo la primera niña de una familia de cinco bulliciosos hermanos. Desde el principio su vida estará marcada por acontecimientos extraordinarios, pues todavía se sienten las ondas expansivas de la Gran Guerra cuando la gripe española llega a las orillas de su país sudamericano natal, casi en el momento exacto de su nacimiento. \\nGracias a la clarividencia del padre, la familia saldrá indemne de esta crisis para darse de bruces con una nueva, cuando la Gran Depresión altera la elegante vida urbana que Violeta ha conocido hasta ahora. Su familia lo perderá todo y se verá obligada a retirarse a una región salvaje y remota del país. Allí Violeta alcanzará la mayoría de edad y tendrá su primer pretendiente... \\nEn una carta dirigida a una persona a la que ama por encima de todas las demás, Violeta rememora devastadores desengaños amorosos y romances apasionados, momentos de pobreza y también de prosperidad, pérdidas terribles e inmensas alegrías. Moldearán su vida algunos de los grandes sucesos de la historia: la lucha por los derechos de la mujer, el auge y caída de tiranos y, en última instancia, no una, sino dos pandemias. \\nVista con los ojos de una mujer poseedora de una pasión, una determinación y un sentido del humor inolvidables que la sostienen a lo largo de una vida turbulenta, Isabel Allende nos regala, una vez más, una historia épica furiosamente inspiradora y profundamente emotiva."
+  },
+  {
+    "name": "Cien años de soledad / One Hundred Years of Solitude (Spanish Edition)",
+    "cover": "https://m.media-amazon.com/images/I/912FquexkAL._AC_UY218_.jpg",
+    "author": "Gabriel García Márquez",
+    "price": 10.90,
+    "id": 1017,
+    "language": "spanish",
+    "year": 2009,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "hardback",
+      "category-3": "audiobook",
+      "category-4": "kindle",
+      "category-5": "paperback"
+    },
+    "description": "“Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo”. \\nCon estas palabras empieza una novela ya legendaria en los anales de la literatura universal, una de las aventuras literarias más fascinantes del siglo xx. Millones de ejemplares de Cien años de soledad leídos en todas las lenguas y el Premio Nobel de Literatura coronando una obra que se había abierto paso a “boca a boca” —como gusta decir el escritor— son la más palpable demostración de que la aventura fabulosa de la familia Buendía-Iguarán, con sus milagros, fantasías, obsesiones, tragedias, incestos, adulterios, rebeldías, descubrimientos y condenas, representaba al mismo tiempo el mito y la historia, la tragedia y el amor del mundo entero."
+  },
+  {
+    "name": "Cuentos para niños collection [Stories for Children Collection]: 3 Libros en 1: Cuentos clásicos y meditaciones para niños. 36 cuentos para dormir con afirmaciones para empoderar la autoestima de tus hijos [3 Books in 1: Classic Tales and Meditations for Children. 36 Bedtime Stories with Affirmations to Empower Your Children's Self-Esteem]",
+    "cover": "https://m.media-amazon.com/images/I/912FquexkAL._AC_UY218_.jpg",
+    "author": "Martha Shannon ",
+    "price": 4.99,
+    "id": 1018,
+    "language": "spanish",
+    "year": 2021,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "audiobook",
+      "category-3": "kindle"
+    },
+    "description": "¿Su hijo presenta dificultades para conciliar el sueño? ¿Está buscando un audiolibro llamativo con un gran número de cuentos para ayudar a su hijo a conciliar el sueño de manera rápida y eficaz? Si es así, ¡Entonces continúe leyendo! \\nEn ciertas ocasiones puede llegar a ser muy complicado para su hijo relajarse al final del día y alcanzar ese nivel de confort y descanso que tanto necesita, especialmente si se siente tan emocionado por todas las cosas que quiere hacer, ¡Y no puede esperar hasta el día siguiente! \\nLos niños de todas las edades disfrutarán escuchando esta serie de meditaciones guiadas en audio y fantásticos cuentos que le ayudarán a relajarse y poder dormir con mayor facilidad. \\nSeguramente encontrará un gran cuento para ayudar a su hijo a tener un maravilloso sueño durante toda la noche."
+  },
+  {
+    "name": "Short Stories in Spanish for Beginners (Teach Yourself, 1)",
+    "cover": "https://m.media-amazon.com/images/I/71t4wKu-WeL._AC_UY218_.jpg",
+    "author": "Peter Hollins",
+    "price": 30.90,
+    "id": 1019,
+    "language": "spanish",
+    "year": 2018,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "audiobook",
+      "category-3": "kindle",
+      "category-4": "paperback"
+    },
+    "description": "An unmissable collection of eight unconventional and captivating short stories for young and adult learners. \\n\"I love Olly's work - and you will too!\" - Barbara Oakley, PhD, Author of New York Times bestseller A Mind for Numbers \\nShort Stories in Spanish for Beginners has been written especially for students from beginner to intermediate level, designed to give a sense of achievement, and most importantly - enjoyment! Mapped to A2-B1 on the Common European Framework of Reference, these eight captivating stories will both entertain you, and give you a feeling of progress when reading. \\nWhat does this book give you? \\n· Eight stories in a variety of exciting genres, from science fiction and crime to history and thriller - making reading fun, while you learn a wide range of new vocabulary \\n· Controlled language at your level, including the 1000 most frequent words, to help you progress confidently \\n· Authentic spoken dialogues, to help you learn conversational expressions and improve your speaking ability \\n· Pleasure! It's much easier to learn a new language when you're having fun, and research shows that if you're enjoying reading in a foreign language, you won't experience the usual feelings of frustration - 'It's too hard!' 'I don't understand!' \\n· Accessible grammar so you learn new structures naturally, in a stress-free way \\nCarefully curated to make learning a new language easy, these stories include key features that will support and consolidate your progress, including \\n· A glossary for bolded words in each text \\n· A bilingual word list \\n· Full plot summary \\n· Comprehension questions after each chapter. \\nAs a result, you will be able to focus on enjoying reading, delighting in your improved range of vocabulary and grasp of the language, without ever feeling overwhelmed or frustrated. From science fiction to fantasy, to crime and thrillers, Short Stories in Spanish for Beginners will make learning Spanish easy and enjoyable. "
+  },
+  {
+    "name": "Cómo terminar lo que empiezas: El arte de perseverar, pasar a la acción, ejecutar los planes y tener disciplina (Peter Hollins Español nº 3) (Spanish Edition)",
+    "cover": "https://m.media-amazon.com/images/I/51Mpc6+-NdS.jpg",
+    "author": " Olly Richards",
+    "price": 10.90,
+    "id": 1020,
+    "language": "spanish",
+    "year": 2018,
+    "category": {
+      "category-1": "instructional",
+      "category-2": "audiobook",
+      "category-3": "kindle",
+      "category-4": "paperback",
+      "category-5": "hardcover"
+    },
+    "description": "Estrategias prácticas para tener más fuerza de voluntad, vencer la procrastinación, desarrollar una mayor capacidad de concentración y lograr cualquier iniciativa que te propongas. \\nPerseverar y terminar lo que empiezas: dos habilidades que son más importantes de lo que crees. Son una combinación de atributos que te permiten materializar tus sueños (sin necesidad de sacrificios o paciencia). La ausencia de dichos atributos implica seguir atrapado en el statu quo. \\n¿Es tu vida una serie de tareas e iniciativas incompletas? Ya no más. h2 \\nCómo terminar lo que empiezas te brinda una perspectiva exhaustiva y única de la ciencia y psicología detrás del éxito, la productividad y la consecución de los objetivos. Nos explica de forma minuciosa el por qué a veces somos incapaces de romper la inercia, y nos brinda soluciones detalladas paso a paso que pueden implementarse al instante. Se explica cada fase de la perseverancia y culminación de los proyectos, e incluso los más entendidos en el ámbito de la productividad aprenderán algo nuevo. \\nAnte todo, esta es una guía para entender mejor cómo funciona el cerebro y el instinto, con el propósito de maximizar la eficiencia. \\nDesarrolla al máximo tu productividad y fortaleza mental. \\nPeter Hollins es un autor de bestsellers que ha estudiado la psicología y eficiencia humana por más de doce años. Ha trabajado con cientos de individuos para ayudarles a liberar todo su potencial y pavimentar el camino al éxito. Sus obras son un reflejo de su experiencia académica, científica y en el ámbito del coaching. \\nDile no a las distracciones, desmotivación, tentaciones, apatía y excusas. \\n•Los inesperados incentivos que nos impulsan a superar los obstáculos. \\n•Cómo contribuye al éxito la creación de reglas diarias y de un manifiesto. \\n•Mentalidades imprescindibles y esclarecedoras que te harán ver la productividad con otros ojos. \\nObtén dominio propio y alcanza tus objetivos sin más dilación, desde el más grande hasta el más pequeño. \\n•La ciencia y las tácticas para vencer la procrastinación sin mucho esfuerzo. \\n•Errores comunes que afectan la concentración y la fuerza de voluntad. \\n•Cómo vencer las distracciones, permanecer concentrado, dedicarse a la actividad en curso, y no perder de vista lo más importante (de manera constante). \\nDale un cambio a tu vida adoptando hábitos productivos y superando obstáculos psicológicos. \\nEl día solo tiene 24 horas, pero todos estamos sujetos a la misma realidad. Puedes ser una de las personas que aprovechan el tiempo al máximo y cumplen todo lo que se proponen. La capacidad de perseverar y terminar lo que empiezas se encuentra íntimamente relacionada con tu felicidad y realización personal. Tienes el control de tu vida, ¡así que aprovéchala "
+  },
+  {
+    "name": "Short Stories in French for Beginners ",
+    "cover": "https://m.media-amazon.com/images/I/51xlpw+BL1L.jpg",
+    "author": " Olly Richards, Richard Simcott",
+    "price": 11.99,
+    "id": 1021,
+    "language": "french",
+    "year": 2018,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "audiobook",
+      "category-3": "kindle",
+      "category-4": "paperback"
+    },
+    "description": "An unmissable collection of eight unconventional and captivating short stories for young and adult learners. \\n\"I love Olly's work - and you will too!\" - Barbara Oakley, PhD, Author of New York Times bestseller A Mind for Numbers \\nShort Stories in French for Beginners has been written especially for students from beginner to intermediate level, designed to give a sense of achievement, and most importantly - enjoyment! Mapped to A2-B1 on the Common European Framework of Reference, these eight captivating stories will both entertain you, and give you a feeling of progress when reading. \\nWhat does this book give you? \\n· Eight stories in a variety of exciting genres, from science fiction and crime to history and thriller - making reading fun, while you learn a wide range of new vocabulary \\n· Controlled language at your level, including the 1000 most frequent words, to help you progress confidently \\n· Authentic spoken dialogues, to help you learn conversational expressions and improve your speaking ability \\n· Pleasure! It's much easier to learn a new language when you're having fun, and research shows that if you're enjoying reading in a foreign language, you won't experience the usual feelings of frustration - 'It's too hard!' 'I don't understand!' \\n· Accessible grammar so you learn new structures naturally, in a stress-free way \\nCarefully curated to make learning a new language easy, these stories include key features that will support and consolidate your progress, including \\n· A glossary for bolded words in each text \\n· A bilingual word list \\n· Full plot summary \\n· Comprehension questions after each chapter. \\nAs a result, you will be able to focus on enjoying reading, delighting in your improved range of vocabulary and grasp of the language, without ever feeling overwhelmed or frustrated. From science fiction to fantasy, to crime and thrillers, Short Stories in French for Beginners will make learning French easy and enjoyable."
+  },
+  {
+    "name": "Becoming fluent in German: 150 Short Stories for Beginners (German Edition)",
+    "cover": "https://m.media-amazon.com/images/I/41N-y7HWVsL.jpg",
+    "author": "Philipp Eich ",
+    "price": 7.99,
+    "id": 1022,
+    "language": "german",
+    "year": 1964,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "hardcover",
+      "category-3": "kindle",
+      "category-4": "paperback"
+    },
+    "description": "Learning German may seem like a difficult task. Especially when it comes to the nature of the German language. The good news is that’s just a false presumption. Every language can be learned if you know the right technique and the right information. \\nIt is proven that the easiest way to learn a language is to hear it in action. Hearing a natural  german conversation is the best thing you can do, it’s like listening to a story. Natural is the keyword in that sentence. A natural approach to learning the language is the fastest and simplest approach to do it. \\nWhy do you think you hear people learning a language extremely fast when they move to another country? Because they hear it naturally, every day. \\nLearn German with stories . \\nMaybe the easiest language learning system ever created. How does that sound to you? \\nPeople listen to other people’s stories. \\nThe human mind is programmed to like stories because that’s what our life is. A story. And because of this very reason, I’ve crafted stories that will easily cut you months of struggling to learn German. There will no longer be a “struggle”. \\nMoving to Germany just to learn German is not a solution . \\nThat’s why my book “brings” Germany to you. It brings stories to you. Learning German with my stories will grab your mind into believing that you will actually “live” into German conversations. When you’re reading a story, you feel like you’re there. The same concept applies to learning German with stories. \\nAbout my learning German with stories book : \\nIt contains 150 short stories about everyday situations \\nEvery story is followed by questions and key vocabulary \\nThe more you read, the easier your brain will automatically get used to the German language ( isn’t that easily beautiful? ) \\nIt includes more than 900 digital flashcards for those not able to understand the book completely from the beginning \\nIt uses psychologically inserted KEY PATTERNS to make your brain automatically easily learn sentences and words (this is key) \\nThe book uses a read-word-repeat writing system along the stories for natural, fluid learning ( heavy repetition = higher retention rate ) \\nThe Benefits of using my book: \\nEasily learn German with stories \\nFeel at ease when reading & learning with the flow of the stories \\nNo struggle forcing to learn words/phrases \\nLearn at your own pace \\nFeel confident in your German language skills after a few weeks ONLY \\nOnce you learn, you NEVER forget"
+  },
+  {
+    "name": "One Italian Summer: A Novel",
+    "cover": "https://m.media-amazon.com/images/I/81m7ZrxVWcL._AC_UY218_.jpg",
+    "author": "Rebecca Serle ",
+    "price": 13.99,
+    "id": 1023,
+    "language": "italian",
+    "year": 1978,
+    "category": {
+      "category-1": "fiction",
+      "category-2": "hardcover",
+      "category-3": "kindle",
+      "category-4": "e-book"
+    },
+    "description": "“[A] magical trip worth taking.” —Associated Press \\n“Rebecca Serle is a maestro of love in all its forms.” —Gabrielle Zevin, New York Times bestselling author \\nThe New York Times bestselling author of In Five Years returns with a powerful novel about the transformational love between mothers and daughters set on the breathtaking Amalfi Coast. \\nWhen Katy’s mother dies, she is left reeling. Carol wasn’t just Katy’s mom, but her best friend and first phone call. She had all the answers and now, when Katy needs her the most, she is gone. To make matters worse, their planned mother-daughter trip of a lifetime looms: to Positano, the magical town where Carol spent the summer right before she met Katy’s father. Katy has been waiting years for Carol to take her, and now she is faced with embarking on the adventure alone. \\nBut as soon as she steps foot on the Amalfi Coast, Katy begins to feel her mother’s spirit. Buoyed by the stunning waters, beautiful cliffsides, delightful residents, and, of course, delectable food, Katy feels herself coming back to life. \\nAnd then Carol appears—in the flesh, healthy, sun-tanned, and thirty years old. Katy doesn’t understand what is happening, or how—all she can focus on is that she has somehow, impossibly, gotten her mother back. Over the course of one Italian summer, Katy gets to know Carol, not as her mother, but as the young woman before her. She is not exactly who Katy imagined she might be, however, and soon Katy must reconcile the mother who knew everything with the young woman who does not yet have a clue. \\nRebecca Serle’s next great love story is here, and this time it’s between a mother and a daughter. With her signature “heartbreaking, redemptive, and authentic” (Jamie Ford, New York Times bestselling author) prose, Serle has crafted a transcendent novel about how we move on after loss, and how the people we love never truly leave us."
   }
 ]
