@@ -3,8 +3,8 @@
   left: 20%;
   top: 130px;
   height: auto;
-  padding-bottom: 40px;
-  background-color: #003461;
+  padding-bottom: 29px;
+  background-color: #00615e67;
   width: 80%;
   color: white;
 }
@@ -19,14 +19,15 @@
 }
 
 .eachBook {
+  padding: 10px;
+  border-radius: 10px;
   display: flex;
   flex-direction: row;
   background-color: #00615D;
 }
 
 .booksContainer {
-  margin-top: 50px;
-  background-color: #002e2c;
+  margin-top: 0px;
   margin-left: 25px;
   margin-right: 25px;
   padding-left: 20px;
