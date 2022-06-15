@@ -1,18 +1,12 @@
 import React from 'react'
 import './Sidebar.css'
 
-export default function Sidebar({ years, formats, languages, genresEducational, genresFiction }) {
+export default function Sidebar({ years, formats, languages, genres }) {
   return (
     <div className='sidebar'>
-      <p className='sideSubTitle'>Fiction Books</p>
+      <p className='sideSubTitle'>Content</p>
       <ul>
-        {genresFiction.map((item) =>
-          <li className='filterItem'><label><input className='checkbox' type='checkbox' name={item} value={item}></input>{item}</label></li>
-        )}
-      </ul>
-      <p className='sideSubTitle'>Instructional Books</p>
-      <ul className='list'>
-        {genresEducational.map((item) =>
+        {genres.map((item) =>
           <li className='filterItem'><label><input className='checkbox' type='checkbox' name={item} value={item}></input>{item}</label></li>
         )}
       </ul>
