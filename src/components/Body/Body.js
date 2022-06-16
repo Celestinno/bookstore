@@ -25,13 +25,14 @@ export default function Body({ data, pageEntries, page, setPage }) {
     <div className='mainBody'>
       <div className='booksContainer'>
         {data.slice((pageEntries * page) - pageEntries, pageEntries * page).map((book) => (
-
           <div className='eachBook'>
             <img className='cover' src={book.cover}></img>
             <div className='info'>
-              <p className='title'>{book.name.substring(0, 40)}</p>
+              <p className='title'>{book.name.substring(0, 35)}</p>
               <p className='author'>{book.author}</p>
+              <p className='price'>$ {book.price}</p>
             </div>
+            <button className='details'><i class="fa-solid fa-angles-down"></i></button>
           </div>
         ))}
 

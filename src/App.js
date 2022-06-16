@@ -28,8 +28,6 @@ function App() {
       <Sidebar years={years} formats={formats} languages={languages} genres={genres} />
       <Body data={data} pageEntries={pageEntries} page={page} setPage={setPage} />
       <Header />
-
-
     </div>
   );
 }

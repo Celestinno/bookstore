@@ -10,25 +10,73 @@
 
 .info {
   padding-left: 10px;
+  grid-column-start: 2;
+  grid-column-end: 5;
 }
 
 .title {
-  font-size: 15px;
+  font-size: 17px;
+  padding-bottom: 5px;
   font-family: 'Arvo', serif;
 }
 
+.author {
+  font-size: 13px;
+}
+
+.price {
+  display: flex;
+  padding-left: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  color: white;
+  width: 100px;
+  height: 30px;
+  margin-top: 10px;
+  border-radius: 5px;
+  background-color: #ca7302;
+  z-index: -2;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.details {
+  position: absolute;
+  height: 27px;
+  width: 100%;
+  border-radius: 0px 0px 10px 10px;
+  background-image: linear-gradient(#00615D, #002e2c);
+  color: white;
+  bottom: -8px;
+  cursor: pointer;
+  right: 0px;
+  border: none;
+  font-size: 18px;
+  font-family: 'Arvo', serif;
+  box-shadow: 0px 1px 10px 1px #00615D;
+}
+
+.details:hover {
+  background-image: linear-gradient(#00615e, #002e2ce1);
+  border: none;
+}
+
+
 .eachBook {
+  position: relative;
   padding: 10px;
   border-radius: 10px;
+  height: 160px;
   display: flex;
   flex-direction: row;
+  align-items: center;
   background-color: #00615D;
+  box-shadow: 0px 1px 10px 1px #00615D;
 }
 
 .booksContainer {
   margin-top: 0px;
-  margin-left: 25px;
-  margin-right: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 25px;
@@ -41,7 +89,11 @@
 }
 
 .cover {
+  margin-top: auto;
+  margin-bottom: auto;
   width: 80px;
+  height: 120px;
+  z-index: 0;
 }
 
 .pageButtons {
@@ -55,11 +107,13 @@
 
 .pages {
   border: none;
+  margin-top: 30px;
   width: 40px;
   height: 40px;
   background-color: #00615D;
   color: white;
   font-weight: 700;
+  box-shadow: 0px 1px 10px 1px #00615D;
 }
 
 .pages:hover {
