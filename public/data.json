@@ -7,10 +7,10 @@
     "id": 1000,
     "language": "english",
     "year": 2015,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "paperback"
-    },
+    "category": [
+      "fiction",
+      "paperback"
+    ],
     "description": "Lily hasn’t always had it easy, but that’s never stopped her from working hard for the life she wants. \\nShe’s come a long way from the small town where she grew up—she graduated from college, moved to Boston, and started her own business. And when she feels a spark with a gorgeous neurosurgeon named Ryle Kincaid, everything in Lily’s life seems too good to be true. \\nRyle is assertive, stubborn, maybe even a little arrogant. He’s also sensitive, brilliant, and has a total soft spot for Lily. And the way he looks in scrubs certainly doesn’t hurt. Lily can’t get him out of her head. But Ryle’s complete aversion to relationships is disturbing. Even as Lily finds herself becoming the exception to his “no dating” rule, she can’t help but wonder what made him that way in the first place. As questions about her new relationship overwhelm her, so do thoughts of Atlas Corrigan—her first love and a link to the past she left behind. He was her kindred spirit, her protector. When Atlas suddenly reappears, everything Lily has built with Ryle is threatened."
   },
   {
@@ -21,9 +21,9 @@
     "id": 1001,
     "language": "english",
     "year": 2012,
-    "category": {
-      "category-1": "fiction"
-    },
+    "category": [
+      "fiction"
+    ],
     "description": "For years, rumors of the “Marsh Girl” have haunted Barkley Cove, a quiet town on the North Carolina coast. So in late 1969, when handsome Chase Andrews is found dead, the locals immediately suspect Kya Clark, the so-called Marsh Girl. \\nBut Kya is not what they say. Sensitive and intelligent, she has survived for years alone in the marsh that she calls home, finding friends in the gulls and lessons in the sand. \\nThen the time comes when she yearns to be touched and loved. When two young men from town become intrigued by her wild beauty, Kya opens herself to a new life—until the unthinkable happens."
   },
   {
@@ -34,10 +34,10 @@
     "id": 1002,
     "language": "english",
     "year": 2005,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "paperback"
-    },
+    "category": [
+      "fiction",
+      "paperback"
+    ],
     "description": "Aging and reclusive Hollywood movie icon Evelyn Hugo is finally ready to tell the truth about her glamorous and scandalous life. But when she chooses unknown magazine reporter Monique Grant for the job, no one is more astounded than Monique herself. \\nWhy her? Why now? Monique is not exactly on top of the world. \\nHer husband has left her, and her professional life is going nowhere. Regardless of why Evelyn has selected her to write her biography, Monique is determined to use this opportunity to jumpstart her career. \\nSummoned to Evelyn’s luxurious apartment, Monique listens in fascination as the actress tells her story. From making her way to Los Angeles in the 1950s to her decision to leave show business in the ‘80s, and, of course, the seven husbands along the way, Evelyn unspools a tale of ruthless ambition, unexpected friendship, and a great forbidden love. Monique begins to feel a very real connection to the legendary star, but as Evelyn’s story near its conclusion, it becomes clear that her life intersects with Monique’s own in tragic and irreversible ways."
   },
   {
@@ -48,10 +48,10 @@
     "id": 1003,
     "language": "english",
     "year": 2010,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "paperback"
-    },
+    "category": [
+      "fiction",
+      "paperback"
+    ],
     "description": "When Tate Collins meets airline pilot Miles Archer, she doesn't think it's love at first sight. They wouldn’t even go so far as to consider themselves friends. The only thing Tate and Miles have in common is an undeniable mutual attraction. \\nOnce their desires are out in the open, they realize they have the perfect set-up. He doesn’t want love, she doesn’t have time for love, so that just leaves the sex. \\nTheir arrangement could be surprisingly seamless, as long as Tate can stick to the only two rules Miles has for her. Never ask about the past. Don’t expect a future. They think they can handle it, but realize almost immediately they can’t handle it at all. \\nHearts get infiltrated. Promises get broken. Rules get shattered. Love gets ugly."
   },
   {
@@ -62,9 +62,9 @@
     "id": 1004,
     "language": "english",
     "year": 1998,
-    "category": {
-      "category-1": "fiction"
-    },
+    "category": [
+      "fiction"
+    ],
     "description": "After serving five years in prison for a tragic mistake, Kenna Rowan returns to the town where it all went wrong, hoping to reunite with her four-year-old daughter. But the bridges Kenna burned are proving impossible to rebuild. \\nEveryone in her daughter’s life is determined to shut Kenna out, no matter how hard she works to prove herself. The only person who hasn’t closed the door on her completely is Ledger Ward, a local bar owner and one of the few remaining links to Kenna’s daughter. But if anyone were to discover how Ledger is slowly becoming an important part of Kenna’s life, both would risk losing the trust of everyone important to them. \\nThe two form a connection despite the pressure surrounding them, but as their romance grows, so does the risk. Kenna must find a way to absolve the mistakes of her past in order to build a future out of hope and healing."
   },
   {
@@ -75,9 +75,9 @@
     "id": 1005,
     "language": "english",
     "year": 1999,
-    "category": {
-      "category-1": "fiction"
-    },
+    "category": [
+      "fiction"
+    ],
     "description": "One summer. Two rivals. A plot twist they didn't see coming... \\nNora Stephens' life is books—she’s read them all—and she is not that type of heroine. Not the plucky one, not the laidback dream girl, and especially not the sweetheart. \\nIn fact, the only people Nora is a heroine for are her clients, for whom she lands enormous deals as a cutthroat literary agent, and her beloved little sister Libby. Which is why she agrees to go to Sunshine Falls, North Carolina for the month of August when Libby begs her for a sisters’ trip away—with visions of a small town transformation for Nora, who she’s convinced needs to become the heroine in her own story. \\nBut instead of picnics in meadows, or run-ins with a handsome country doctor or bulging-forearmed bartender, Nora keeps bumping into Charlie Lastra, a bookish brooding editor from back in the city. It would be a meet-cute if not for the fact that they’ve met many times and it’s never been cute. \\nIf Nora knows she’s not an ideal heroine, Charlie knows he’s nobody’s hero, but as they are thrown together again and again—in a series of coincidences no editor worth their salt would allow—what they discover might just unravel the carefully crafted stories they’ve written about themselves."
   },
   {
@@ -88,10 +88,10 @@
     "id": 1006,
     "language": "english",
     "year": 2001,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "paperback"
-    },
+    "category": [
+      "fiction",
+      "paperback"
+    ],
     "description": "Back when restaurant menus were still printed on paper, and wearing a mask—or not—was a decision made mostly on Halloween, David Sedaris spent his time doing normal things. \\nAs Happy-Go-Lucky opens, he is learning to shoot guns with his sister, visiting muddy flea markets in Serbia, buying gummy worms to feed to ants, and telling his nonagenarian father wheelchair jokes. But then the pandemic hits, and like so many others, he’s stuck in lockdown, unable to tour and read for audiences, the part of his work he loves most. \\nTo cope, he walks for miles through a nearly deserted city, smelling only his own breath. He vacuums his apartment twice a day, fails to hoard anything, and contemplates how sex workers and acupuncturists might be getting by during quarantine. As the world gradually settles into a new reality, Sedaris too finds himself changed. \\nHis offer to fix a stranger’s teeth rebuffed, he straightens his own, and ventures into the world with new confidence. Newly orphaned, he considers what it means, in his seventh decade, no longer to be someone’s son. \\nAnd back on the road, he discovers a battle-scarred America: people weary, storefronts empty or festooned with Help Wanted signs, walls painted with graffiti reflecting the contradictory messages of our time: \\nEat the Rich. \\nTrump 2024. \\nBlack Lives Matter. "
   },
   {
@@ -102,10 +102,10 @@
     "id": 1007,
     "language": "english",
     "year": 2012,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "paperback"
-    },
+    "category": [
+      "fiction",
+      "paperback"
+    ],
     "description": "Sparkling with the musings of the wizard Mordenkainen, this tome features a host of creatures for use in the Dungeons & Dragons roleplaying game. Compiling and updating monsters that originally appeared in previous D&D fifth edition releases, these creatures represent some of the most benevolent and malevolent forces that D&D heroes might face. \\nThe book also gathers together fantastical peoples from many different worlds. Each of these peoples represents a race option when you create your D&D character, expanding on the choices in the Player’s Handbook. \\n•  Includes more than 250 monsters—updates to the monsters include making spellcasters easier for Dungeon Masters to run, giving many monsters more damage and resilience, and improving the organization of the stat blocks themselves \\n•  Includes more than 30 playable races—brings the game’s setting-agnostic races into one book, complementing the races in the Player’s Handbook \\n•  A multiverse of lore—includes updates to monster lore that refocuses their stories on the D&D multiverse, rather than on any particular world"
   },
   {
@@ -116,9 +116,9 @@
     "id": 1008,
     "language": "english",
     "year": 2004,
-    "category": {
-      "category-1": "fiction"
-    },
+    "category": [
+      "fiction"
+    ],
     "description": "The Kingsley family is American royalty, beloved for their military heroics, political service, and unmatched elegance. In 1967, after Joseph S. Kingsley, Jr. is killed in a tragic accident, his charismatic son inherits the weight of that legacy. But Joe III is a free spirit—and a little bit reckless. Despite his best intentions, he has trouble meeting the expectations of a nation, as well as those of his exacting mother, Dottie. \\nMeanwhile, no one ever expected anything of Cate Cooper. She, too, grew up fatherless—and after her mother marries an abusive man, she is forced to fend for herself. After being discovered by a model scout at age sixteen, Cate decides that her looks may be her only ticket out of the cycle of disappointment that her mother has always inhabited. Before too long, Cate’s face is in magazines and on billboards. Yet she feels like a fraud, faking it in a world to which she’s never truly belonged. \\nWhen Joe and Cate unexpectedly cross paths one afternoon, their connection is instant and intense. But can their relationship survive the glare of the spotlight and the so-called Kingsley curse? In a beautifully written novel that captures a gilded moment in American history, Emily Giffin tells the story of two people searching for belonging and identity, as well as the answer to the question: Are certain love stories meant to be?"
   },
   {
@@ -129,10 +129,10 @@
     "id": 1009,
     "language": "english",
     "year": 2015,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "paperback"
-    },
+    "category": [
+      "fiction",
+      "paperback"
+    ],
     "description": "Fallon meets Ben, an aspiring novelist, the day before her scheduled cross-country move. Their untimely attraction leads them to spend Fallon’s last day in Los Angeles together, and her eventful life becomes the creative inspiration Ben has always sought for his novel. Over time and amidst the various relationships and tribulations of their own separate lives, they continue to meet on the same date every year. Until one day Fallon becomes unsure if Ben has been telling her the truth or fabricating a perfect reality for the sake of the ultimate plot twist. \\nCan Ben’s relationship with Fallon—and simultaneously his novel—be considered a love story if it ends in heartbreak?"
   },
   {
@@ -143,11 +143,11 @@
     "id": 1010,
     "language": "english",
     "year": 1987,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "manga",
-      "category-3": "paperback"
-    },
+    "category": [
+      "fiction",
+      "manga",
+      "paperback"
+    ],
     "description": " Have you got the Guts? Kentaro Miura's Berserk has outraged, horrified, and delighted manga and anime fanatics since 1989, creating an international legion of hardcore devotees and inspiring a plethora of TV series, feature films, and video games. And now the badass champion of adult fantasy manga is presented in an oversized 7\" x 10\" deluxe hardcover edition, nearly 700 pages amassing the first three Berserk volumes, with following volumes to come to serve up the entire series in handsome bookshelf collections. No Guts, no glory! "
   },
   {
@@ -158,9 +158,9 @@
     "id": 1011,
     "language": "english",
     "year": 2022,
-    "category": {
-      "category-1": "fiction"
-    },
+    "category": [
+      "fiction"
+    ],
     "description": "They say you can never go home again, and for Persephone Fraser, ever since she made the biggest mistake of her life a decade ago, that has felt too true. Instead of glittering summers on the lakeshore of her childhood, she spends them in a stylish apartment in the city, going out with friends, and keeping everyone a safe distance from her heart. \\nUntil she receives the call that sends her racing back to Barry’s Bay and into the orbit of Sam Florek—the man she never thought she’d have to live without. \\nFor six summers, through hazy afternoons on the water and warm summer nights working in his family’s restaurant and curling up together with books—medical textbooks for him and work-in-progress horror short stories for her—Percy and Sam had been inseparable. Eventually that friendship turned into something breathtakingly more, before it fell spectacularly apart. \\nWhen Percy returns to the lake for Sam’s mother’s funeral, their connection is as undeniable as it had always been. But until Percy can confront the decisions she made and the years she’s spent punishing herself for them, they’ll never know whether their love might be bigger than the biggest mistakes of their past. \\nTold over the course of six years and one weekend, Every Summer After is a big, sweeping nostalgic story of love and the people and choices that mark us forever."
   },
   {
@@ -171,10 +171,10 @@
     "id": 1012,
     "language": "english",
     "year": 2015,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "paperback"
-    },
+    "category": [
+      "fiction",
+      "paperback"
+    ],
     "description": "Two best friends. Ten summer trips. One last chance to fall in love. \\nPoppy and Alex. Alex and Poppy. They have nothing in common. She’s a wild child; he wears khakis. She has insatiable wanderlust; he prefers to stay home with a book. And somehow, ever since a fateful car share home from college many years ago, they are the very best of friends. For most of the year they live far apart—she’s in New York City, and he’s in their small hometown—but every summer, for a decade, they have taken one glorious week of vacation together. \\nUntil two years ago, when they ruined everything. They haven't spoken since. \\nPoppy has everything she should want, but she’s stuck in a rut. When someone asks when she was last truly happy, she knows, without a doubt, it was on that ill-fated, final trip with Alex. And so, she decides to convince her best friend to take one more vacation together—lay everything on the table, make it all right. Miraculously, he agrees. \\nNow she has a week to fix everything. If only she can get around the one big truth that has always stood quietly in the middle of their seemingly perfect relationship. What could possibly go wrong?"
   },
   {
@@ -185,9 +185,9 @@
     "id": 1013,
     "language": "english",
     "year": 2005,
-    "category": {
-      "category-1": "fiction"
-    },
+    "category": [
+      "fiction"
+    ],
     "description": "Before Owen Michaels disappears, he smuggles a note to his beloved wife of one year: Protect her. Despite her confusion and fear, Hannah Hall knows exactly to whom the note refers—Owen’s sixteen-year-old daughter, Bailey. Bailey, who lost her mother tragically as a child. Bailey, who wants absolutely nothing to do with her new stepmother. \\nAs Hannah’s increasingly desperate calls to Owen go unanswered, as the FBI arrests Owen’s boss, as a US marshal and federal agents arrive at her Sausalito home unannounced, Hannah quickly realizes her husband isn’t who he said he was. And that Bailey just may hold the key to figuring out Owen’s true identity—and why he really disappeared. \\nHannah and Bailey set out to discover the truth. But as they start putting together the pieces of Owen’s past, they soon realize they’re also building a new future—one neither of them could have anticipated. \\nWith its breakneck pacing, dizzying plot twists, and evocative family drama, The Last Thing He Told Me is a riveting mystery, certain to shock you with its final, heartbreaking turn."
   },
   {
@@ -198,9 +198,9 @@
     "id": 1014,
     "language": "english",
     "year": 1994,
-    "category": {
-      "category-1": "fiction"
-    },
+    "category": [
+      "fiction"
+    ],
     "description": "Augustus Everett is an acclaimed author of literary fiction. January Andrews writes bestselling romance. When she pens a happily ever after, he kills off his entire cast. \\nThey’re polar opposites. \\nIn fact, the only thing they have in common is that for the next three months, they're living in neighboring beach houses, broke, and bogged down with writer's block. \\nUntil, one hazy evening, one thing leads to another and they strike a deal designed to force them out of their creative ruts: Augustus will spend the summer writing something happy, and January will pen the next Great American Novel. She’ll take him on field trips worthy of any rom-com montage, and he’ll take her to interview surviving members of a backwoods death cult (obviously). Everyone will finish a book and no one will fall in love. Really."
   },
   {
@@ -211,10 +211,10 @@
     "id": 1015,
     "language": "english",
     "year": 2021,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "paperback"
-    },
+    "category": [
+      "fiction",
+      "paperback"
+    ],
     "description": "A special 25th anniversary edition of the extraordinary international bestseller, including a new Foreword by Paulo Coelho. \\nCombining magic, mysticism, wisdom and wonder into an inspiring tale of self-discovery, The Alchemist has become a modern classic, selling millions of copies around the world and transforming the lives of countless readers across generations. \\nPaulo Coelho's masterpiece tells the mystical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure. His quest will lead him to riches far different—and far more satisfying—than he ever imagined. Santiago's journey teaches us about the essential wisdom of listening to our hearts, of recognizing opportunity and learning to read the omens strewn along life's path, and, most importantly, to follow our dreams."
   },
   {
@@ -225,10 +225,10 @@
     "id": 1016,
     "language": "spanish",
     "year": 2013,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "hardback"
-    },
+    "category": [
+      "fiction",
+      "hardback"
+    ],
     "description": "La épica y emocionante historia de una mujer cuya vida abarca los momentos históricos más relevantes del siglo XX. \\nDesde 1920 -con la llamada «gripe española»- hasta la pandemia de 2020, la vida de Violeta será mucho más que la historia de un siglo. \\nVioleta viene al mundo un tormentoso día de 1920, siendo la primera niña de una familia de cinco bulliciosos hermanos. Desde el principio su vida estará marcada por acontecimientos extraordinarios, pues todavía se sienten las ondas expansivas de la Gran Guerra cuando la gripe española llega a las orillas de su país sudamericano natal, casi en el momento exacto de su nacimiento. \\nGracias a la clarividencia del padre, la familia saldrá indemne de esta crisis para darse de bruces con una nueva, cuando la Gran Depresión altera la elegante vida urbana que Violeta ha conocido hasta ahora. Su familia lo perderá todo y se verá obligada a retirarse a una región salvaje y remota del país. Allí Violeta alcanzará la mayoría de edad y tendrá su primer pretendiente... \\nEn una carta dirigida a una persona a la que ama por encima de todas las demás, Violeta rememora devastadores desengaños amorosos y romances apasionados, momentos de pobreza y también de prosperidad, pérdidas terribles e inmensas alegrías. Moldearán su vida algunos de los grandes sucesos de la historia: la lucha por los derechos de la mujer, el auge y caída de tiranos y, en última instancia, no una, sino dos pandemias. \\nVista con los ojos de una mujer poseedora de una pasión, una determinación y un sentido del humor inolvidables que la sostienen a lo largo de una vida turbulenta, Isabel Allende nos regala, una vez más, una historia épica furiosamente inspiradora y profundamente emotiva."
   },
   {
@@ -239,13 +239,13 @@
     "id": 1017,
     "language": "spanish",
     "year": 2009,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "hardback",
-      "category-3": "audiobook",
-      "category-4": "kindle",
-      "category-5": "paperback"
-    },
+    "category": [
+      "fiction",
+      "hardback",
+      "audiobook",
+      "kindle",
+      "paperback"
+    ],
     "description": "“Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo”. \\nCon estas palabras empieza una novela ya legendaria en los anales de la literatura universal, una de las aventuras literarias más fascinantes del siglo xx. Millones de ejemplares de Cien años de soledad leídos en todas las lenguas y el Premio Nobel de Literatura coronando una obra que se había abierto paso a “boca a boca” —como gusta decir el escritor— son la más palpable demostración de que la aventura fabulosa de la familia Buendía-Iguarán, con sus milagros, fantasías, obsesiones, tragedias, incestos, adulterios, rebeldías, descubrimientos y condenas, representaba al mismo tiempo el mito y la historia, la tragedia y el amor del mundo entero."
   },
   {
@@ -256,11 +256,11 @@
     "id": 1018,
     "language": "spanish",
     "year": 2021,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "audiobook",
-      "category-3": "kindle"
-    },
+    "category": [
+      "fiction",
+      "audiobook",
+      "kindle"
+    ],
     "description": "¿Su hijo presenta dificultades para conciliar el sueño? ¿Está buscando un audiolibro llamativo con un gran número de cuentos para ayudar a su hijo a conciliar el sueño de manera rápida y eficaz? Si es así, ¡Entonces continúe leyendo! \\nEn ciertas ocasiones puede llegar a ser muy complicado para su hijo relajarse al final del día y alcanzar ese nivel de confort y descanso que tanto necesita, especialmente si se siente tan emocionado por todas las cosas que quiere hacer, ¡Y no puede esperar hasta el día siguiente! \\nLos niños de todas las edades disfrutarán escuchando esta serie de meditaciones guiadas en audio y fantásticos cuentos que le ayudarán a relajarse y poder dormir con mayor facilidad. \\nSeguramente encontrará un gran cuento para ayudar a su hijo a tener un maravilloso sueño durante toda la noche."
   },
   {
@@ -271,12 +271,12 @@
     "id": 1019,
     "language": "spanish",
     "year": 2018,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "audiobook",
-      "category-3": "kindle",
-      "category-4": "paperback"
-    },
+    "category": [
+      "fiction",
+      "audiobook",
+      "kindle",
+      "paperback"
+    ],
     "description": "An unmissable collection of eight unconventional and captivating short stories for young and adult learners. \\n\"I love Olly's work - and you will too!\" - Barbara Oakley, PhD, Author of New York Times bestseller A Mind for Numbers \\nShort Stories in Spanish for Beginners has been written especially for students from beginner to intermediate level, designed to give a sense of achievement, and most importantly - enjoyment! Mapped to A2-B1 on the Common European Framework of Reference, these eight captivating stories will both entertain you, and give you a feeling of progress when reading. \\nWhat does this book give you? \\n· Eight stories in a variety of exciting genres, from science fiction and crime to history and thriller - making reading fun, while you learn a wide range of new vocabulary \\n· Controlled language at your level, including the 1000 most frequent words, to help you progress confidently \\n· Authentic spoken dialogues, to help you learn conversational expressions and improve your speaking ability \\n· Pleasure! It's much easier to learn a new language when you're having fun, and research shows that if you're enjoying reading in a foreign language, you won't experience the usual feelings of frustration - 'It's too hard!' 'I don't understand!' \\n· Accessible grammar so you learn new structures naturally, in a stress-free way \\nCarefully curated to make learning a new language easy, these stories include key features that will support and consolidate your progress, including \\n· A glossary for bolded words in each text \\n· A bilingual word list \\n· Full plot summary \\n· Comprehension questions after each chapter. \\nAs a result, you will be able to focus on enjoying reading, delighting in your improved range of vocabulary and grasp of the language, without ever feeling overwhelmed or frustrated. From science fiction to fantasy, to crime and thrillers, Short Stories in Spanish for Beginners will make learning Spanish easy and enjoyable. "
   },
   {
@@ -287,13 +287,13 @@
     "id": 1020,
     "language": "spanish",
     "year": 2018,
-    "category": {
-      "category-1": "instructional",
-      "category-2": "audiobook",
-      "category-3": "kindle",
-      "category-4": "paperback",
-      "category-5": "hardcover"
-    },
+    "category": [
+      "instructional",
+      "audiobook",
+      "kindle",
+      "paperback",
+      "hardcover"
+    ],
     "description": "Estrategias prácticas para tener más fuerza de voluntad, vencer la procrastinación, desarrollar una mayor capacidad de concentración y lograr cualquier iniciativa que te propongas. \\nPerseverar y terminar lo que empiezas: dos habilidades que son más importantes de lo que crees. Son una combinación de atributos que te permiten materializar tus sueños (sin necesidad de sacrificios o paciencia). La ausencia de dichos atributos implica seguir atrapado en el statu quo. \\n¿Es tu vida una serie de tareas e iniciativas incompletas? Ya no más. h2 \\nCómo terminar lo que empiezas te brinda una perspectiva exhaustiva y única de la ciencia y psicología detrás del éxito, la productividad y la consecución de los objetivos. Nos explica de forma minuciosa el por qué a veces somos incapaces de romper la inercia, y nos brinda soluciones detalladas paso a paso que pueden implementarse al instante. Se explica cada fase de la perseverancia y culminación de los proyectos, e incluso los más entendidos en el ámbito de la productividad aprenderán algo nuevo. \\nAnte todo, esta es una guía para entender mejor cómo funciona el cerebro y el instinto, con el propósito de maximizar la eficiencia. \\nDesarrolla al máximo tu productividad y fortaleza mental. \\nPeter Hollins es un autor de bestsellers que ha estudiado la psicología y eficiencia humana por más de doce años. Ha trabajado con cientos de individuos para ayudarles a liberar todo su potencial y pavimentar el camino al éxito. Sus obras son un reflejo de su experiencia académica, científica y en el ámbito del coaching. \\nDile no a las distracciones, desmotivación, tentaciones, apatía y excusas. \\n•Los inesperados incentivos que nos impulsan a superar los obstáculos. \\n•Cómo contribuye al éxito la creación de reglas diarias y de un manifiesto. \\n•Mentalidades imprescindibles y esclarecedoras que te harán ver la productividad con otros ojos. \\nObtén dominio propio y alcanza tus objetivos sin más dilación, desde el más grande hasta el más pequeño. \\n•La ciencia y las tácticas para vencer la procrastinación sin mucho esfuerzo. \\n•Errores comunes que afectan la concentración y la fuerza de voluntad. \\n•Cómo vencer las distracciones, permanecer concentrado, dedicarse a la actividad en curso, y no perder de vista lo más importante (de manera constante). \\nDale un cambio a tu vida adoptando hábitos productivos y superando obstáculos psicológicos. \\nEl día solo tiene 24 horas, pero todos estamos sujetos a la misma realidad. Puedes ser una de las personas que aprovechan el tiempo al máximo y cumplen todo lo que se proponen. La capacidad de perseverar y terminar lo que empiezas se encuentra íntimamente relacionada con tu felicidad y realización personal. Tienes el control de tu vida, ¡así que aprovéchala "
   },
   {
@@ -304,12 +304,12 @@
     "id": 1021,
     "language": "french",
     "year": 2018,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "audiobook",
-      "category-3": "kindle",
-      "category-4": "paperback"
-    },
+    "category": [
+      "fiction",
+      "audiobook",
+      "kindle",
+      "paperback"
+    ],
     "description": "An unmissable collection of eight unconventional and captivating short stories for young and adult learners. \\n\"I love Olly's work - and you will too!\" - Barbara Oakley, PhD, Author of New York Times bestseller A Mind for Numbers \\nShort Stories in French for Beginners has been written especially for students from beginner to intermediate level, designed to give a sense of achievement, and most importantly - enjoyment! Mapped to A2-B1 on the Common European Framework of Reference, these eight captivating stories will both entertain you, and give you a feeling of progress when reading. \\nWhat does this book give you? \\n· Eight stories in a variety of exciting genres, from science fiction and crime to history and thriller - making reading fun, while you learn a wide range of new vocabulary \\n· Controlled language at your level, including the 1000 most frequent words, to help you progress confidently \\n· Authentic spoken dialogues, to help you learn conversational expressions and improve your speaking ability \\n· Pleasure! It's much easier to learn a new language when you're having fun, and research shows that if you're enjoying reading in a foreign language, you won't experience the usual feelings of frustration - 'It's too hard!' 'I don't understand!' \\n· Accessible grammar so you learn new structures naturally, in a stress-free way \\nCarefully curated to make learning a new language easy, these stories include key features that will support and consolidate your progress, including \\n· A glossary for bolded words in each text \\n· A bilingual word list \\n· Full plot summary \\n· Comprehension questions after each chapter. \\nAs a result, you will be able to focus on enjoying reading, delighting in your improved range of vocabulary and grasp of the language, without ever feeling overwhelmed or frustrated. From science fiction to fantasy, to crime and thrillers, Short Stories in French for Beginners will make learning French easy and enjoyable."
   },
   {
@@ -320,13 +320,13 @@
     "id": 1022,
     "language": "german",
     "year": 1964,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "hardcover",
-      "category-3": "kindle",
-      "category-4": "paperback"
-    },
-    "description": "Learning German may seem like a difficult task. Especially when it comes to the nature of the German language. The good news is that’s just a false presumption. Every language can be learned if you know the right technique and the right information. \\nIt is proven that the easiest way to learn a language is to hear it in action. Hearing a natural  german conversation is the best thing you can do, it’s like listening to a story. Natural is the keyword in that sentence. A natural approach to learning the language is the fastest and simplest approach to do it. \\nWhy do you think you hear people learning a language extremely fast when they move to another country? Because they hear it naturally, every day. \\nLearn German with stories . \\nMaybe the easiest language learning system ever created. How does that sound to you? \\nPeople listen to other people’s stories. \\nThe human mind is programmed to like stories because that’s what our life is. A story. And because of this very reason, I’ve crafted stories that will easily cut you months of struggling to learn German. There will no longer be a “struggle”. \\nMoving to Germany just to learn German is not a solution . \\nThat’s why my book “brings” Germany to you. It brings stories to you. Learning German with my stories will grab your mind into believing that you will actually “live” into German conversations. When you’re reading a story, you feel like you’re there. The same concept applies to learning German with stories. \\nAbout my learning German with stories book : \\nIt contains 150 short stories about everyday situations \\nEvery story is followed by questions and key vocabulary \\nThe more you read, the easier your brain will automatically get used to the German language ( isn’t that easily beautiful? ) \\nIt includes more than 900 digital flashcards for those not able to understand the book completely from the beginning \\nIt uses psychologically inserted KEY PATTERNS to make your brain automatically easily learn sentences and words (this is key) \\nThe book uses a read-word-repeat writing system along the stories for natural, fluid learning ( heavy repetition = higher retention rate ) \\nThe Benefits of using my book: \\nEasily learn German with stories \\nFeel at ease when reading & learning with the flow of the stories \\nNo struggle forcing to learn words/phrases \\nLearn at your own pace \\nFeel confident in your German language skills after a few weeks ONLY \\nOnce you learn, you NEVER forget"
+    "category": [
+      "fiction",
+      "hardcover",
+      "kindle",
+      "paperback"
+    ],
+    "description": "Learning German may seem like a difficult task. Especially when it comes to the nature of the German language. The good news is that’s just a false presumption. Every language can be learned if you know the right technique and the right information. \\nIt is proven that the easiest way to learn a language is to hear it in action. Hearing a natural  german conversation is the best thing you can do, it’s like listening to a story. Natural is the keyword in that sentence. A natural approach to learning the language is the fastest and simplest approach to do it. \\nWhy do you think you hear people learning a language extremely fast when they move to another country? Because they hear it naturally, every day. \\nLearn German with stories . \\nMaybe the easiest language learning system ever created. How does that sound to you? \\nPeople listen to other people’s stories. \\nThe human mind is programmed to like stories because that’s what our life is. A story. And because of this very reason, I’ve crafted stories that will easily cut you months of struggling to learn German. There will no longer be a “struggle”. \\nMoving to Germany just to learn German is not a solution . \\nThat’s why my book “brings” Germany to you. It brings stories to you. Learning German with my stories will grab your mind into believing that you will actually “live” into German conversations. When you’re reading a story, you feel like you’re there. The same concept applies to learning German with stories. \\nAbout my learning German with stories book\\nIt contains 150 short stories about everyday situations \\nEvery story is followed by questions and key vocabulary \\nThe more you read, the easier your brain will automatically get used to the German language ( isn’t that easily beautiful? ) \\nIt includes more than 900 digital flashcards for those not able to understand the book completely from the beginning \\nIt uses psychologically inserted KEY PATTERNS to make your brain automatically easily learn sentences and words (this is key) \\nThe book uses a read-word-repeat writing system along the stories for natural, fluid learning ( heavy repetition = higher retention rate ) \\nThe Benefits of using my book: \\nEasily learn German with stories \\nFeel at ease when reading & learning with the flow of the stories \\nNo struggle forcing to learn words/phrases \\nLearn at your own pace \\nFeel confident in your German language skills after a few weeks ONLY \\nOnce you learn, you NEVER forget"
   },
   {
     "name": "One Italian Summer: A Novel",
@@ -336,12 +336,12 @@
     "id": 1023,
     "language": "italian",
     "year": 1978,
-    "category": {
-      "category-1": "fiction",
-      "category-2": "hardcover",
-      "category-3": "kindle",
-      "category-4": "e-book"
-    },
+    "category": [
+      "fiction",
+      "hardcover",
+      "kindle",
+      "e-book"
+    ],
     "description": "“[A] magical trip worth taking.” —Associated Press \\n“Rebecca Serle is a maestro of love in all its forms.” —Gabrielle Zevin, New York Times bestselling author \\nThe New York Times bestselling author of In Five Years returns with a powerful novel about the transformational love between mothers and daughters set on the breathtaking Amalfi Coast. \\nWhen Katy’s mother dies, she is left reeling. Carol wasn’t just Katy’s mom, but her best friend and first phone call. She had all the answers and now, when Katy needs her the most, she is gone. To make matters worse, their planned mother-daughter trip of a lifetime looms: to Positano, the magical town where Carol spent the summer right before she met Katy’s father. Katy has been waiting years for Carol to take her, and now she is faced with embarking on the adventure alone. \\nBut as soon as she steps foot on the Amalfi Coast, Katy begins to feel her mother’s spirit. Buoyed by the stunning waters, beautiful cliffsides, delightful residents, and, of course, delectable food, Katy feels herself coming back to life. \\nAnd then Carol appears—in the flesh, healthy, sun-tanned, and thirty years old. Katy doesn’t understand what is happening, or how—all she can focus on is that she has somehow, impossibly, gotten her mother back. Over the course of one Italian summer, Katy gets to know Carol, not as her mother, but as the young woman before her. She is not exactly who Katy imagined she might be, however, and soon Katy must reconcile the mother who knew everything with the young woman who does not yet have a clue. \\nRebecca Serle’s next great love story is here, and this time it’s between a mother and a daughter. With her signature “heartbreaking, redemptive, and authentic” (Jamie Ford, New York Times bestselling author) prose, Serle has crafted a transcendent novel about how we move on after loss, and how the people we love never truly leave us."
   }
 ]

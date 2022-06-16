@@ -43,3 +43,34 @@
 .cover {
   width: 80px;
 }
+
+.pageButtons {
+  display: flex;
+  height: 40px;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.pages {
+  border: none;
+  width: 40px;
+  height: 40px;
+  background-color: #00615D;
+  color: white;
+  font-weight: 700;
+}
+
+.pages:hover {
+  background-color: #00615e70;
+  cursor: pointer;
+}
+
+.pages-first {
+  border-radius: 10px 0px 0px 10px;
+}
+
+.pages-last {
+  border-radius: 0px 10px 10px 0px;
+}
